@@ -1,0 +1,10 @@
+This a simple Python Project that involves data manipulation. In this project, I am
+going to create a program that reads data from a CSV file (I created), performs some
+basic data manipulation, and then writes the result back to a new CSV file. But this process
+of data manipulation is going to be automated.
+
+To run this code you need to open the product_Analyzer.py on pycharm also make sure
+the Products.csv file is in the same working directory as the python file. Hence from there follow
+the instruction on the TODO in the product_Analyer.py file.
+
+When suceesfully run the code should return 4 new CSV files which will all contain the modified data in them. 
